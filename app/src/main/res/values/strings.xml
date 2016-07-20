@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meenu-oota +</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_main2">Fish Details +</string>
+    <string name="title_activity_main3">Special Offer</string>
+</resources>
